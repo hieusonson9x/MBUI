@@ -1,0 +1,10 @@
+label.error {
+	color: red;
+	font-size: 12px;
+}
+.x_title span {
+	color: white;
+}
+.actionMessage {
+	text-align: left;
+}
